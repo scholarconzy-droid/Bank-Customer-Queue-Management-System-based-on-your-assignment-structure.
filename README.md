@@ -1,0 +1,2 @@
+# Bank-Customer-Queue-Management-System-based-on-your-assignment-structure.
+The Bank Customer Queue Management System is a software application designed to organize, track, and streamline the flow of bank visitors as they wait for teller services. Built around the First In, First Out (FIFO) linear data structure, the application models a physical waiting line where arrival order dictates service sequence.  
